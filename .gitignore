@@ -1,0 +1,3 @@
+# Ignore tailwindcss executable
+# This file is used to ignore the tailwindcss executable in the project directory
+*tailwindcss.exe
